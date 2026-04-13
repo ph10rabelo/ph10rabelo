@@ -25,7 +25,6 @@ Estou antecipando estudos de **Engenharia de Software** e **Padrões de Projeto 
 - **uerj-projetos:** Registros de implementações acadêmicas em Grafos, Java e outros desafios da graduação.
 
 ### 🚀 Objetivos
-- 🏆 Aprovação no concurso do TJRJ.
 - 💼 Planejando ingresso no mercado de trabalho (Estágio) por volta de **Julho** de **2026**.
 
 ---
