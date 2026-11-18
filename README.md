@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro Henrique! 👋
 
-🎓 **Ciência da Computação @ UERJ** (6º Período)
+🎓 **Ciência da Computação @ UERJ** (7º Período)
 🎯 **Foco Atual:** Engenharia de Software e preparação para o concurso do **TJRJ**.
 
 ### 🛠️ Perfil Técnico & Acadêmico
